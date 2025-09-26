@@ -1,4 +1,4 @@
-![logo](https://github.com/AadilHussain7/AadilHussain7/blob/main/Github%20Banner.png)
+![logo](https://github.com/AadilHussain7/AadilHussain7/blob/main/Banner.png)
 <h1 align="center">Hi, I'm Aadil Hussain</h1>
 <h3 align="center">A Passionate Data Analyst in India</h3>
 
