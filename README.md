@@ -7,9 +7,9 @@
   <div class="about-container">
     <h2>💼 About Me</h2>
     <p>
-I am a results-driven Data Analyst with 2+ years of freelance experience delivering
- actionable insights through Python, SQL, Power BI, Tableau, and Excel. Skilled in data
- cleaning, exploratory data analysis, dashboard development, and predictive modeling, I 
+I am a results-driven <strong> Data Analyst </strong> with 2+ years of freelance experience delivering
+ actionable insights through <strong> Python, SQL, Power BI, Tableau, and Excel.  </strong> Skilled in <strong> data
+ cleaning, exploratory data analysis, dashboard development, and predictive modeling,  </strong> I 
 have worked with diverse datasets across e-commerce, sales, and entertainment. My
  projects have helped businesses reduce manual reporting by 25% and improve decision-
 making speed by 20%. I am passionate about turning complex data into clear insights that 
