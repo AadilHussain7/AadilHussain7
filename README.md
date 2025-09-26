@@ -6,7 +6,7 @@
 <body>
   <div class="about-container">
     <h2>💼 About Me</h2>
-    <p>
+    <p style="font-family: 'Arial';">
 I am a results-driven <strong> Data Analyst </strong> with 2+ years of freelance experience delivering
  actionable insights through <strong> Python, SQL, Power BI, Tableau, and Excel.  </strong> Skilled in <strong> data
  cleaning, exploratory data analysis, dashboard development, and predictive modeling,  </strong> I 
