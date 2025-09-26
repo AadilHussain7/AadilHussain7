@@ -1,6 +1,24 @@
 ![logo](https://github.com/AadilHussain7/AadilHussain7/blob/main/Banner.png)
 <h1 align="center">Hi, I'm Aadil Hussain</h1>
 <h3 align="center">A Passionate Data Analyst in India</h3>
+</head>
+<body>
+
+  <div class="about-container">
+    <h2>💼 About Me</h2>
+    <p>I’m a passionate Data Analyst with 2 years of freelance 
+    experience helping businesses transform raw data into
+    meaningful insights. I specialize in data visualization, dashboard 
+    development, and statistical analysis using tools like Power BI, Excel, SQL, and Python.</p>
+    <p>Over the past 2 years, I’ve worked with clients from diverse industries, 
+    including e-commerce, healthcare, and finance, to
+    uncover trends, optimize performance, and support data-driven
+    decision-making</p>
+    <p>I enjoy turning complex data into clear, actionable insights that
+    empower businesses to grow.</p>
+  </div>
+</body>
+</html>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadilhussain7&label=Profile%20views&color=0e75b6&style=flat" alt="aadilhussain7" /> </p>
 
