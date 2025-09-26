@@ -3,10 +3,8 @@
 <h3 align="center">A Passionate Data Analyst in India</h3>
 </head>
 <body>
-
 </head>
 <body>
-
   <div class="about-container">
     <h2>💼 About Me</h2>
     <p>
@@ -19,7 +17,6 @@ making speed by 20%. I am passionate about turning complex data into clear insig
 support business growth and innovation
     </p>
   </div>
-
 </body>
 </html>
 
